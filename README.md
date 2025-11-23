@@ -12,6 +12,7 @@ A travel planning app that combines weather data, place recommendations, and int
 - **Smart place discovery** - Attractions, restaurants, and points of interest from OpenStreetMap
 - **Interactive maps** - Explore locations with clickable Leaflet maps
 - **Category filtering** - Filter by attractions, food, shopping, entertainment, historic sites, or nature
+- - **Wikipedia integration** - Further refining choices by popularity and other metrics
 - **Natural language queries** - Just ask naturally like "What's the weather in Paris?" or "Show me things to do in Tokyo"
 - **Responsive design** - Works seamlessly on desktop, tablet, and mobile
 - **No API keys required** - Uses free, open-source APIs
