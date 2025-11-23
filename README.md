@@ -8,12 +8,14 @@ A travel planning app that combines weather data, place recommendations, and int
 
 ## Features
 
-- Real-time weather data from Open-Meteo
-- Place discovery using OpenStreetMap with Wikipedia descriptions
-- Interactive Leaflet maps
-- Category filtering (attractions, food, shopping, entertainment, historic sites, nature)
-- Natural language query processing
-- No API keys required
+- **Real-time weather data** - Current conditions and forecasts from Open-Meteo
+- **Smart place discovery** - Attractions, restaurants, and points of interest from OpenStreetMap
+- **Interactive maps** - Explore locations with clickable Leaflet maps
+- **Wikipedia integration** - Rich descriptions for places and landmarks
+- **Category filtering** - Filter by attractions, food, shopping, entertainment, historic sites, or nature
+- **Natural language queries** - Just ask naturally like "What's the weather in Paris?" or "Show me things to do in Tokyo"
+- **Responsive design** - Works seamlessly on desktop, tablet, and mobile
+- **No API keys required** - Uses free, open-source APIs
 
 ## Getting Started
 
@@ -96,20 +98,32 @@ voyant/
 
 ## Usage
 
-Ask about weather:
+**🌤️ Ask about weather:**
 ```
 What's the weather in Paris?
 ```
 
-Discover places:
+**🗺️ Discover places:**
 ```
 Show me attractions in Tokyo
+Things to do in Barcelona
 ```
 
-Combined queries:
+**🔄 Combined queries:**
 ```
 Weather and places to visit in London
 ```
+
+**⚙️ Use category filters:**
+- Click the settings icon in the top right
+- Select a category (food, historic sites, nature, shopping, entertainment, or attractions)
+- Your results will be filtered to show only places in that category
+
+**🗺️ Explore with maps:**
+- Each place result shows a small map preview
+- Click on any map to open an interactive full-screen view
+- Click markers to see place details
+- Pan and zoom to explore the area
 
 Use the settings icon to filter by category (food, historic sites, nature, etc.). Click on map previews to explore locations interactively.
 
