@@ -11,7 +11,6 @@ A travel planning app that combines weather data, place recommendations, and int
 - **Real-time weather data** - Current conditions and forecasts from Open-Meteo
 - **Smart place discovery** - Attractions, restaurants, and points of interest from OpenStreetMap
 - **Interactive maps** - Explore locations with clickable Leaflet maps
-- **Wikipedia integration** - Rich descriptions for places and landmarks
 - **Category filtering** - Filter by attractions, food, shopping, entertainment, historic sites, or nature
 - **Natural language queries** - Just ask naturally like "What's the weather in Paris?" or "Show me things to do in Tokyo"
 - **Responsive design** - Works seamlessly on desktop, tablet, and mobile
