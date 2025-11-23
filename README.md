@@ -12,7 +12,7 @@ A travel planning app that combines weather data, place recommendations, and int
 - **Smart place discovery** - Attractions, restaurants, and points of interest from OpenStreetMap
 - **Interactive maps** - Explore locations with clickable Leaflet maps
 - **Category filtering** - Filter by attractions, food, shopping, entertainment, historic sites, or nature
-- - **Wikipedia integration** - Further refining choices by popularity and other metrics
+- **Wikipedia integration** - Further refining choices by popularity and other metrics
 - **Natural language queries** - Just ask naturally like "What's the weather in Paris?" or "Show me things to do in Tokyo"
 - **Responsive design** - Works seamlessly on desktop, tablet, and mobile
 - **No API keys required** - Uses free, open-source APIs
@@ -94,7 +94,7 @@ voyant/
 - Open-Meteo (weather)
 - OpenStreetMap Overpass API (places)
 - Nominatim (geocoding)
-- Wikipedia REST API (descriptions)
+- Wikipedia REST API (refining selections)
 
 ## Usage
 
@@ -119,7 +119,7 @@ Weather and places to visit in London
 - Select a category (food, historic sites, nature, shopping, entertainment, or attractions)
 - Your results will be filtered to show only places in that category
 
-**🗺️ Explore with maps:**
+**📍 Explore with maps:**
 - Each place result shows a small map preview
 - Click on any map to open an interactive full-screen view
 - Click markers to see place details
@@ -127,13 +127,6 @@ Weather and places to visit in London
 
 Use the settings icon to filter by category (food, historic sites, nature, etc.). Click on map previews to explore locations interactively.
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
-
-## License
-
-MIT - see [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 
